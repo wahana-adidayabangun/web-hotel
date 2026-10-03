@@ -9,14 +9,13 @@ export function Hero() {
                     </span>
 
                     <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold tracking-tight text-white">
-                        Temukan Rute Transportasi
-                        <br />
+                        Temukan Tempat Menginap nyaman <br />
+                        
                         yang Kamu Butuhkan
                     </h1>
 
                     <p className="mt-5 max-w-2xl text-base sm:text-lg leading-7 text-blue-100">
-                        Lihat daftar rute shuttle, titik pemberhentian, dan informasi
-                        transportasi yang tersedia secara real-time.
+                        Lihat berbagai pilihan hotel yang tersedia di kota tujuanmu, dan temukan tempat menginap yang sesuai dengan kebutuhanmu. Dengan berbagai fasilitas dan harga yang bersaing, kami siap membantu perjalananmu menjadi lebih nyaman dan menyenangkan.
                     </p>
                 </div>
             </div>

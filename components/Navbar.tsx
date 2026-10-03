@@ -42,7 +42,7 @@ export const Navbar = () => {
           {/* Logo / Brand */}
           <div className="flex-shrink-0 flex items-center">
             <Link href="/" className="text-xl font-bold text-blue-600">
-              Kvlari
+              Toztel
             </Link>
           </div>
 
